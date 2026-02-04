@@ -4,7 +4,7 @@
 
 ## Deskripsi singkat
 
-`website-pegawai` SIMANTU adalah aplikasi web berbasis Laravel untuk manajemen pegawai, penugasan, pengumpulan tugas (submissions), dan komunikasi internal (chat). Project ini menggunakan model utama `User`, `Task`, `Submission`, dan `Chat` untuk merepresentasikan alur kerja pegawai.
+`website-pegawai SIMANTU` adalah aplikasi web berbasis Laravel untuk manajemen pegawai, penugasan, pengumpulan tugas (submissions), dan komunikasi internal (chat). Project ini menggunakan model utama `User`, `Task`, `Submission`, dan `Chat` untuk merepresentasikan alur kerja pegawai.
 
 ## Tampilan Aplikasi
 
@@ -14,7 +14,10 @@ Berikut adalah tampilan antarmuka aplikasi SIMANTU:
 ![Halaman Login](./images/simantu.png)
 
 **2. Dashboard Admin**
-![Dashboard Admin](./images/dashboard_simantu.png)
+![Dashboard Admin](./images/dashboard_simantu_admin.png)
+
+**2. Dashboard Users**
+![Dashboard Admin](./images/dashboard_simantu_user.png)
 
 ## Fitur utama
 
